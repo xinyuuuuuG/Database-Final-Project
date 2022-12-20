@@ -20,6 +20,9 @@ Since our database is built using Microsoft Azure, it may require a certificate 
 
 Demonstration videos of how users can interact with the interface.
 
+#### *final report*
+Summarization of our work.
+
 ### Part 1: Get a Quote
 The interface gives customer a predicted insurance quote based on customer's information entered. 
 
