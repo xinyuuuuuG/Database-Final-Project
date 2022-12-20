@@ -9,16 +9,17 @@ Project2 folder includes the schema and the database we created.
 ## Project 3: Machine Learning Models
 Project3 includes the jupyter notebook we used to implement machine learning models to predict the disease based on clients health situations. And the dataset we used as well.
 
-## Final Project: Create a user interface 
+## Final Project: User Interface 
 #### *code*
 
-Configurations and a templates folder which includes our htmls.
+Configurations, machine learning model to predict quote, and a templates folder which includes our htmls. 
 
 #### *demo*
 
-A demonstration of how users can interact with the interface.
+Demonstration videos of how users can interact with the interface.
 
 ### Part 1: Get a Quote
-Build interface to give customer a insurance quote based on customer's information entered. 
+The interface gives customer a predicted insurance quote based on customer's information entered. 
+
 ### Part 2: Modify Database
 This interface also allows customer to modify their information in our database.
