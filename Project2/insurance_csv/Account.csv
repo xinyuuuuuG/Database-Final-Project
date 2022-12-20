@@ -1,0 +1,6 @@
+AccountName,LocationCity,LocationState,LocationZip,AliasSource,AliasID,CompanyCode
+Mary,New York,NY,10002,kaggle,1,3
+Pamela,New York,NY,10003,kaggle,2,1
+Cynthia,Rochester,NY,14086,kaggle,3,2
+Rose,Houston,TX,77494,kaggle,4,1
+Samil,Houston,TX,75034,kaggle,5,3
