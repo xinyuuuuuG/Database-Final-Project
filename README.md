@@ -12,7 +12,9 @@ Project3 includes the jupyter notebook we used to implement machine learning mod
 ## Final Project: User Interface 
 #### *code*
 
+To run our code, go to FinalPorject/code/, run Python homepage.py in the teriminal.
 Configurations, machine learning model to predict quote, and a templates folder which includes our htmls. 
+Since our database is built using Microsoft Azure, it may require a certificate to connect it to the python files and the html files. If the grader needs our certificate information, please email xg693@nyu.edu and yw3875@nyu.edu. 
 
 #### *demo*
 
